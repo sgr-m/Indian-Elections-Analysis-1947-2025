@@ -1,0 +1,79 @@
+variant,canonical_name,state_code,category
+J&K,Jammu and Kashmir,JK,abbreviation
+J & K,Jammu and Kashmir,JK,abbreviation
+JandK,Jammu and Kashmir,JK,abbreviation
+Jammu and Kashmir,Jammu and Kashmir,JK,canonical
+Jammu & Kashmir,Jammu and Kashmir,JK,variant
+Jammu And Kashmir,Jammu and Kashmir,JK,case_variant
+JAMMU AND KASHMIR,Jammu and Kashmir,JK,upper
+jammu and kashmir,Jammu and Kashmir,JK,lower
+J.&K.,Jammu and Kashmir,JK,abbreviation
+Jammu-Kashmir,Jammu and Kashmir,JK,hyphenated
+Bombay,Maharashtra,MH,historical_name
+Bombay State,Maharashtra,MH,historical_name
+Maharashtra,Maharashtra,MH,canonical
+MAHARASHTRA,Maharashtra,MH,upper
+mumbai,Maharashtra,MH,city_name
+Madras,Tamil Nadu,TN,historical_name
+Madras State,Tamil Nadu,TN,historical_name
+Tamil Nadu,Tamil Nadu,TN,canonical
+Tamilnadu,Tamil Nadu,TN,variant
+TAMIL NADU,Tamil Nadu,TN,upper
+TamilNadu,Tamil Nadu,TN,camel
+Mysore,Karnataka,KA,historical_name
+Mysore State,Karnataka,KA,historical_name
+Karnataka,Karnataka,KA,canonical
+KARNATAKA,Karnataka,KA,upper
+Travancore-Cochin,Kerala,KL,historical_name
+Travancore Cochin,Kerala,KL,historical_name
+Kerala,Kerala,KL,canonical
+KERALA,Kerala,KL,upper
+Orissa,Odisha,OR,old_name
+Odisha,Odisha,OR,canonical
+ODISHA,Odisha,OR,upper
+ORISSA,Odisha,OR,upper_old
+United Provinces,Uttar Pradesh,UP,historical_name
+Uttar Pradesh,Uttar Pradesh,UP,canonical
+UP,Uttar Pradesh,UP,abbreviation
+UTTAR PRADESH,Uttar Pradesh,UP,upper
+U.P.,Uttar Pradesh,UP,abbreviation
+Uttar Pradesh 1947 - 1999,Uttar Pradesh,UP,source_specific
+Uttarakhand,Uttarakhand,UK,canonical
+Uttaranchal,Uttarakhand,UK,old_official_name
+UTTARAKHAND,Uttarakhand,UK,upper
+PEPSU,Punjab,PB,historical_state
+Patiala and East Punjab States Union,Punjab,PB,historical_full
+Punjab,Punjab,PB,canonical
+PUNJAB,Punjab,PB,upper
+Madhya Bharat,Madhya Pradesh,MP,historical_state
+Vindhya Pradesh,Madhya Pradesh,MP,historical_state
+Madhya Pradesh,Madhya Pradesh,MP,canonical
+MP,Madhya Pradesh,MP,abbreviation
+MADHYA PRADESH,Madhya Pradesh,MP,upper
+Andhra Pradesh,Andhra Pradesh,AP,canonical
+Andhra,Andhra Pradesh,AP,short
+ANDHRA PRADESH,Andhra Pradesh,AP,upper
+Telangana,Telangana,TS,canonical
+TELANGANA,Telangana,TS,upper
+Bihar,Bihar,BR,canonical
+BIHAR,Bihar,BR,upper
+Jharkhand,Jharkhand,JH,canonical
+JHARKHAND,Jharkhand,JH,upper
+Chhattisgarh,Chhattisgarh,CG,canonical
+Chattisgarh,Chhattisgarh,CG,misspelling
+CHHATTISGARH,Chhattisgarh,CG,upper
+Gujarat,Gujarat,GJ,canonical
+GUJARAT,Gujarat,GJ,upper
+Hyderabad,Hyderabad,HY,historical_state
+Hyderabad State,Hyderabad,HY,historical_state
+West Bengal,West Bengal,WB,canonical
+WEST BENGAL,West Bengal,WB,upper
+Assam,Assam,AS,canonical
+ASSAM,Assam,AS,upper
+Rajasthan,Rajasthan,RJ,canonical
+Rajputana,Rajasthan,RJ,historical_name
+RAJASTHAN,Rajasthan,RJ,upper
+Delhi,Delhi,DL,canonical
+NCT Delhi,Delhi,DL,official
+DELHI,Delhi,DL,upper
+New Delhi,Delhi,DL,city_name

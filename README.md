@@ -1,0 +1,98 @@
+# Electoral Democracy in India (1947–2025): A Data-Driven Analysis of Fragmentation, Volatility, and Coalition Networks
+
+**Author:** Sagar Maindola[cite: 2]  
+**Institution:** Department of Computer Science, Graphic Era Deemed to be University, Dehradun[cite: 2]  
+
+*(Paper under review at SSRN - Link coming soon)*
+
+---
+
+## Project Overview
+This repository contains the complete Python codebase, feature engineering pipelines, and machine learning models used to evaluate the structural drivers of Indian parliamentary elections from 1951 to 2024. By harmonizing disparate historical records into a unified relational database, this project transitions the study of Indian electoral democracy from qualitative narratives to reproducible data science.
+
+## Project Structure
+The repository is organized chronologically to ensure full reproducibility of the data pipeline and statistical models:
+
+*   **`RawData/`**: Place downloaded CSVs here[cite: 2].
+*   **`FilteredData/`**: Intermediate datasets following initial boundary and missing-value audits.
+*   **`ProcessedData/`**: Cleaned outputs and finalized analytical feature arrays[cite: 2].
+*   **`ReferenceData/`**: Crosswalk tables and historical party metadata[cite: 2].
+*   **`Sub Datasets/`**: Segmented data blocks categorized by political epoch.
+*   **`electoral_india.db`**: The normalized SQLite database acting as the core data engine[cite: 2].
+*   **`state_normalization.py`**: Reusable state name normalization module resolving spelling variants[cite: 2].
+*   **`queries.sql`**: Optimized extraction queries for downstream Pandas integration.
+*   **`requirements.txt`**: Complete list of Python dependencies for local replication.
+
+### Execution Pipeline (Jupyter Notebooks)
+*   **`01_data_collection.ipynb`**: Automated ingestion of raw tables into the SQLite environment. 
+*   **`02_data_cleanup_and_filteration.ipynb`**: Resolution of party nomenclature, missing value handling, and spatial crosswalk mapping.
+*   **`03_feature_engineering.ipynb`**: Computation of vote swing, historical lags, binary incumbency flags, and coalition strength scores.
+*   **`04_eda.ipynb`**: Exploratory data analysis, turnout mapping, and temporal visualizations.
+*   **`05_indices.ipynb`**: Calculation of the Party Dominance Index (PDI), Pedersen Volatility, Effective Number of Parties (ENP), and Gallagher disproportionality index.
+*   **`06_statistical_models.ipynb`**: Multivariable OLS, Logit victory probability modeling, Mixed-Effects (MixedLM) estimation, and ARIMA forecasting.
+*   **`07_machine_learning_models.ipynb`**: XGBoost and Random Forest classification, SHAP feature importance extraction, and K-Means/Hierarchical clustering of state typologies.
+*   **`08_network_analysis_of_colation.ipynb`**: Construction of undirected graphs mapping pre-poll alliances and extraction of degree/betweenness centrality metrics.
+
+---
+
+## RawData Files Required
+To replicate this study, download the following datasets and place them in the `RawData/` directory with the specified filenames:
+
+| Filename | Source |
+|---|---|
+| `election_results_1951_2019.csv` | Kaggle (ramaasivashankar)[cite: 2] |
+| `loksabha_1962_2019.csv` | Kaggle (prabinraj)[cite: 2] |
+| `election_results_2024.csv` | OpenCity.in[cite: 2] |
+| `ref_party_master_1962_2021.csv` | Kaggle (jehanbhathena)[cite: 2] |
+| `election_constituency_summary.csv` | dataful.in/datasets/19985[cite: 2] |
+| `literacy_1951_2011.csv` | data.gov.in[cite: 2] |
+| `parliament_1951_2014.csv` | github.com/datameet[cite: 2] |
+| `state_sdp_2011_2023.csv` | mospi.gov.in[cite: 2] |
+| `state_gdp_share_1960_2023.csv` | dataful.in/datasets/20245[cite: 2] |
+
+---
+## Project Methodology
+Below is the structural flow of the data engineering and machine learning pipelines utilized in this research:
+
+![Research Methodology](Figures/methodology_diagram.png)
+
+---
+
+## Key Design Decisions
+
+### State Name Standardization & Bifurcation Logic
+All raw state name variants are mapped through a robust tracking dictionary. Historical state names (Bombay, Madras, PEPSU, etc.) are mapped to their canonical successors[cite: 2]. The pipeline utilizes bifurcation-aware logic to handle year-dependent spatial reassignments, ensuring longitudinal consistency across the following major events[cite: 2]:
+
+| Year | Event |
+|---|---|
+| 1947–1956 | Multiple states (PEPSU, Hyderabad, Madhya Bharat, Vindhya Pradesh, Travancore-Cochin) merged/reorganized[cite: 2] |
+| 1960 | Bombay → Maharashtra + Gujarat[cite: 2] |
+| 1963 | Nagaland statehood[cite: 2] |
+| 1966 | Punjab → Punjab + Haryana[cite: 2] |
+| 1969 | Madras → Tamil Nadu (rename)[cite: 2] |
+| 1971 | Himachal Pradesh statehood[cite: 2] |
+| 1972 | Manipur, Meghalaya, Tripura statehood[cite: 2] |
+| 1973 | Mysore → Karnataka (rename)[cite: 2] |
+| 1975 | Sikkim accession[cite: 2] |
+| 1987 | Goa, Mizoram, Arunachal Pradesh statehood[cite: 2] |
+| 2000 | UP → Uttarakhand; Bihar → Jharkhand; MP → Chhattisgarh[cite: 2] |
+| 2011 | Orissa → Odisha (rename)[cite: 2] |
+| 2014 | Andhra Pradesh → Andhra Pradesh + Telangana[cite: 2] |
+| 2019 | J&K → J&K UT + Ladakh UT[cite: 2] |
+
+---
+
+## Key Empirical Findings
+1. **The Incumbency Premium:** Sitting incumbents enjoy a statistically robust vote-share premium of approximately 20 to 22 percentage points over non-incumbents, overpowering regional economic fluctuations.
+2. **Coalitions as Power Multipliers:** Pre-poll alliances function as critical institutional power multipliers; coalition strength scores serve as the second highest predictor of constituency victory in XGBoost and Random Forest ensembles.
+3. **Network Centralization:** Alliance networks have expanded exponentially, evolving from 206 parties and 20,303 links in 1996 to a highly centralized, bi-polar architecture of 674 parties and 224,117 links in 2019.
+4. **Cyclical Disproportionality:** The Gallagher and Loosemore-Hanby indices prove that electoral disproportionality in India operates cyclically—peaking during eras of single-party dominance and plummeting during the highly fragmented coalition era (1989–2009).
+
+## How to Run
+1. Clone this repository to your local machine.
+2. Install the required dependencies by running `pip install -r requirements.txt`.
+3. Download the necessary raw data files listed above and place them in the `RawData/` directory[cite: 2].
+4. Execute the Jupyter Notebooks sequentially from `01` to `08`.
+
+---
+*Last updated: June 2026*

@@ -1,0 +1,292 @@
+fiscal_year,state,state_size,gdp_share,unit,notes,election_year_clean,state_raw,state_canonical,gdp_share_pct
+2023-24,Andhra Pradesh,Large,9.7,gdp_share in percentage,gdp_share: Data for Andhra Pradesh and Telangana Together,2023,Andhra Pradesh,Andhra Pradesh,969.9999999999999
+2023-24,Assam,Large,1.9,gdp_share in percentage,,2023,Assam,Assam,190.0
+2023-24,Bihar,Large,4.3,gdp_share in percentage,gdp_share:Data for Bihar and Jharkhand Together,2023,Bihar,Bihar,430.0
+2023-24,Chhattisgarh,Large,1.7,gdp_share in percentage,,2023,Chhattisgarh,Chhattisgarh,170.0
+2023-24,Delhi,Large,3.6,gdp_share in percentage,,2023,Delhi,Delhi,360.0
+2023-24,Andaman and Nicobar Islands,Small,0.04,gdp_share in percentage,gdp_share: data is for 2022-23,2023,Andaman and Nicobar Islands,Andaman and Nicobar Islands,4.0
+2023-24,Arunachal Pradesh,Small,0.1,gdp_share in percentage,gdp_share: data is for 2022-23,2023,Arunachal Pradesh,Arunachal Pradesh,10.0
+2023-24,Chandigarh,Small,0.2,gdp_share in percentage,gdp_share: data is for 2022-23,2023,Chandigarh,Chandigarh,20.0
+2023-24,Goa,Small,0.3,gdp_share in percentage,gdp_share: data is for 2022-23,2023,Goa,Goa,30.0
+2023-24,Gujarat,Large,8.1,gdp_share in percentage,gdp_share: data is for 2022-23,2023,Gujarat,Gujarat,810.0
+2023-24,Haryana,Large,3.6,gdp_share in percentage,,2023,Haryana,Haryana,360.0
+2023-24,Himachal Pradesh,Small,0.7,gdp_share in percentage,,2023,Himachal Pradesh,Himachal Pradesh,70.0
+2023-24,Jammu and Kashmir,Small,0.8,gdp_share in percentage,,2023,Jammu and Kashmir,Jammu and Kashmir,80.0
+2023-24,Jharkhand,Large,1.5,gdp_share in percentage,,2023,Jharkhand,Jharkhand,150.0
+2023-24,Karnataka,Large,8.2,gdp_share in percentage,,2023,Karnataka,Karnataka,819.9999999999999
+2023-24,Kerala,Large,3.8,gdp_share in percentage,,2023,Kerala,Kerala,380.0
+2023-24,Madhya Pradesh,Large,6.1,gdp_share in percentage,gdp_share:Data for Madhya Pradesh and Chhattisgarh Together,2023,Madhya Pradesh,Madhya Pradesh,610.0
+2023-24,Maharashtra,Large,13.3,gdp_share in percentage,,2023,Maharashtra,Maharashtra,1330.0
+2023-24,Manipur,Small,0.1,gdp_share in percentage,gdp_share: data is for 2022-23,2023,Manipur,Manipur,10.0
+2023-24,Meghalaya,Small,0.2,gdp_share in percentage,,2023,Meghalaya,Meghalaya,20.0
+2023-24,Mizoram,Small,0.1,gdp_share in percentage,gdp_share: data is for 2022-23,2023,Mizoram,Mizoram,10.0
+2023-24,Nagaland,Small,0.1,gdp_share in percentage,gdp_share: data is for 2022-23,2023,Nagaland,Nagaland,10.0
+2023-24,Odisha,Large,2.8,gdp_share in percentage,,2023,Odisha,Odisha,280.0
+2023-24,Punjab,Large,2.4,gdp_share in percentage,,2023,Punjab,Punjab,240.0
+2023-24,Rajasthan,Large,5.0,gdp_share in percentage,,2023,Rajasthan,Rajasthan,500.0
+2023-24,Tamil Nadu,Large,8.9,gdp_share in percentage,,2023,Tamil Nadu,Tamil Nadu,890.0
+2023-24,Telangana,Large,4.9,gdp_share in percentage,,2023,Telangana,Telangana,490.00000000000006
+2023-24,Uttar Pradesh,Large,9.5,gdp_share in percentage,gdp_share:Data for Uttar Pradesh and Uttarakhand Together,2023,Uttar Pradesh,Uttar Pradesh,950.0
+2023-24,Uttarakhand,Large,1.1,gdp_share in percentage,,2023,Uttarakhand,Uttarakhand,110.00000000000001
+2023-24,West Bengal,Large,5.6,gdp_share in percentage,,2023,West Bengal,West Bengal,560.0
+2023-24,Puducherry,Small,0.2,gdp_share in percentage,,2023,Puducherry,Puducherry,20.0
+2023-24,Sikkim,Small,0.2,gdp_share in percentage,,2023,Sikkim,Sikkim,20.0
+2023-24,Tripura,Small,0.3,gdp_share in percentage,,2023,Tripura,Tripura,30.0
+2023-24,Andhra Pradesh,Large,4.7,gdp_share in percentage,,2023,Andhra Pradesh,Andhra Pradesh,470.0
+2023-24,Bihar,Large,2.8,gdp_share in percentage,,2023,Bihar,Bihar,280.0
+2023-24,Madhya Pradesh,Large,4.5,gdp_share in percentage,,2023,Madhya Pradesh,Madhya Pradesh,450.0
+2023-24,Uttar Pradesh,Large,8.4,gdp_share in percentage,,2023,Uttar Pradesh,Uttar Pradesh,840.0
+2020-21,Andhra Pradesh,Large,9.5,gdp_share in percentage,gdp_share: Data for Andhra Pradesh and Telangana Together,2020,Andhra Pradesh,Andhra Pradesh,950.0
+2020-21,Assam,Large,1.7,gdp_share in percentage,,2020,Assam,Assam,170.0
+2020-21,Bihar,Large,4.3,gdp_share in percentage,gdp_share:Data for Bihar and Jharkhand Together,2020,Bihar,Bihar,430.0
+2020-21,Chhattisgarh,Large,1.7,gdp_share in percentage,,2020,Chhattisgarh,Chhattisgarh,170.0
+2020-21,Delhi,Large,3.7,gdp_share in percentage,,2020,Delhi,Delhi,370.0
+2020-21,Gujarat,Large,8.0,gdp_share in percentage,,2020,Gujarat,Gujarat,800.0
+2020-21,Haryana,Large,3.6,gdp_share in percentage,,2020,Haryana,Haryana,360.0
+2020-21,Jharkhand,Large,1.5,gdp_share in percentage,,2020,Jharkhand,Jharkhand,150.0
+2020-21,Karnataka,Large,8.1,gdp_share in percentage,,2020,Karnataka,Karnataka,810.0
+2020-21,Kerala,Large,3.8,gdp_share in percentage,,2020,Kerala,Kerala,380.0
+2020-21,Madhya Pradesh,Large,6.4,gdp_share in percentage,gdp_share:Data for Madhya Pradesh and Chhattisgarh Together,2020,Madhya Pradesh,Madhya Pradesh,640.0
+2020-21,Maharashtra,Large,13.0,gdp_share in percentage,,2020,Maharashtra,Maharashtra,1300.0
+2020-21,Odisha,Large,2.7,gdp_share in percentage,,2020,Odisha,Odisha,270.0
+2020-21,Punjab,Large,2.7,gdp_share in percentage,,2020,Punjab,Punjab,270.0
+2020-21,Rajasthan,Large,5.1,gdp_share in percentage,,2020,Rajasthan,Rajasthan,509.99999999999994
+2020-21,Tamil Nadu,Large,8.9,gdp_share in percentage,,2020,Tamil Nadu,Tamil Nadu,890.0
+2020-21,Telangana,Large,4.7,gdp_share in percentage,,2020,Telangana,Telangana,470.0
+2020-21,Uttar Pradesh,Large,9.3,gdp_share in percentage,gdp_share:Data for Uttar Pradesh and Uttarakhand Together,2020,Uttar Pradesh,Uttar Pradesh,930.0000000000001
+2020-21,Uttarakhand,Large,1.1,gdp_share in percentage,,2020,Uttarakhand,Uttarakhand,110.00000000000001
+2020-21,West Bengal,Large,5.7,gdp_share in percentage,,2020,West Bengal,West Bengal,570.0
+2020-21,Andaman and Nicobar Islands,Small,0.05,gdp_share in percentage,,2020,Andaman and Nicobar Islands,Andaman and Nicobar Islands,5.0
+2020-21,Arunachal Pradesh,Small,0.2,gdp_share in percentage,,2020,Arunachal Pradesh,Arunachal Pradesh,20.0
+2020-21,Chandigarh,Small,0.2,gdp_share in percentage,,2020,Chandigarh,Chandigarh,20.0
+2020-21,Goa,Small,0.4,gdp_share in percentage,,2020,Goa,Goa,40.0
+2020-21,Himachal Pradesh,Small,0.8,gdp_share in percentage,,2020,Himachal Pradesh,Himachal Pradesh,80.0
+2020-21,Jammu and Kashmir,Small,0.8,gdp_share in percentage,,2020,Jammu and Kashmir,Jammu and Kashmir,80.0
+2020-21,Manipur,Small,0.1,gdp_share in percentage,,2020,Manipur,Manipur,10.0
+2020-21,Meghalaya,Small,0.2,gdp_share in percentage,,2020,Meghalaya,Meghalaya,20.0
+2020-21,Mizoram,Small,0.1,gdp_share in percentage,,2020,Mizoram,Mizoram,10.0
+2020-21,Nagaland,Small,0.1,gdp_share in percentage,,2020,Nagaland,Nagaland,10.0
+2020-21,Puducherry,Small,0.2,gdp_share in percentage,,2020,Puducherry,Puducherry,20.0
+2020-21,Sikkim,Small,0.2,gdp_share in percentage,,2020,Sikkim,Sikkim,20.0
+2020-21,Tripura,Small,0.3,gdp_share in percentage,,2020,Tripura,Tripura,30.0
+2020-21,Andhra Pradesh,Large,4.9,gdp_share in percentage,,2020,Andhra Pradesh,Andhra Pradesh,490.00000000000006
+2020-21,Bihar,Large,2.8,gdp_share in percentage,,2020,Bihar,Bihar,280.0
+2020-21,Madhya Pradesh,Large,4.7,gdp_share in percentage,,2020,Madhya Pradesh,Madhya Pradesh,470.0
+2020-21,Uttar Pradesh,Large,8.2,gdp_share in percentage,,2020,Uttar Pradesh,Uttar Pradesh,819.9999999999999
+2010-11,Andhra Pradesh,Large,8.4,gdp_share in percentage,gdp_share: Data for Andhra Pradesh and Telangana Together,2010,Andhra Pradesh,AP-Telangana Combined,840.0
+2010-11,Assam,Large,1.6,gdp_share in percentage,,2010,Assam,Assam,160.0
+2010-11,Bihar,Large,4.8,gdp_share in percentage,gdp_share:Data for Bihar and Jharkhand Together,2010,Bihar,Bihar,480.0
+2010-11,Chhattisgarh,Large,1.7,gdp_share in percentage,,2010,Chhattisgarh,Chhattisgarh,170.0
+2010-11,Delhi,Large,3.7,gdp_share in percentage,,2010,Delhi,Delhi,370.0
+2010-11,Gujarat,Large,7.5,gdp_share in percentage,,2010,Gujarat,Gujarat,750.0
+2010-11,Haryana,Large,3.8,gdp_share in percentage,,2010,Haryana,Haryana,380.0
+2010-11,Jharkhand,Large,1.8,gdp_share in percentage,,2010,Jharkhand,Jharkhand,180.0
+2010-11,Karnataka,Large,5.9,gdp_share in percentage,,2010,Karnataka,Karnataka,590.0
+2010-11,Kerala,Large,3.8,gdp_share in percentage,,2010,Kerala,Kerala,380.0
+2010-11,Madhya Pradesh,Large,5.5,gdp_share in percentage,gdp_share:Data for Madhya Pradesh and Chhattisgarh Together,2010,Madhya Pradesh,Madhya Pradesh,550.0
+2010-11,Maharashtra,Large,15.2,gdp_share in percentage,,2010,Maharashtra,Maharashtra,1520.0
+2010-11,Odisha,Large,2.9,gdp_share in percentage,,2010,Odisha,Odisha,290.0
+2010-11,Punjab,Large,3.3,gdp_share in percentage,,2010,Punjab,Punjab,330.0
+2010-11,Rajasthan,Large,4.9,gdp_share in percentage,,2010,Rajasthan,Rajasthan,490.00000000000006
+2010-11,Tamil Nadu,Large,8.4,gdp_share in percentage,,2010,Tamil Nadu,Tamil Nadu,840.0
+2010-11,Telangana,Large,3.8,gdp_share in percentage,,2010,Telangana,Telangana,380.0
+2010-11,Uttar Pradesh,Large,9.9,gdp_share in percentage,gdp_share:Data for Uttar Pradesh and Uttarakhand Together,2010,Uttar Pradesh,Uttar Pradesh,990.0
+2010-11,Uttarakhand,Large,1.2,gdp_share in percentage,,2010,Uttarakhand,Uttarakhand,120.0
+2010-11,West Bengal,Large,6.7,gdp_share in percentage,,2010,West Bengal,West Bengal,670.0
+2010-11,Andaman and Nicobar Islands,Small,0.06,gdp_share in percentage,,2010,Andaman and Nicobar Islands,Andaman and Nicobar Islands,6.0
+2010-11,Arunachal Pradesh,Small,0.1,gdp_share in percentage,,2010,Arunachal Pradesh,Arunachal Pradesh,10.0
+2010-11,Chandigarh,Small,0.3,gdp_share in percentage,,2010,Chandigarh,Chandigarh,30.0
+2010-11,Goa,Small,0.5,gdp_share in percentage,,2010,Goa,Goa,50.0
+2010-11,Himachal Pradesh,Small,0.8,gdp_share in percentage,,2010,Himachal Pradesh,Himachal Pradesh,80.0
+2010-11,Jammu and Kashmir,Small,0.8,gdp_share in percentage,,2010,Jammu and Kashmir,Jammu and Kashmir,80.0
+2010-11,Manipur,Small,0.1,gdp_share in percentage,,2010,Manipur,Manipur,10.0
+2010-11,Meghalaya,Small,0.2,gdp_share in percentage,,2010,Meghalaya,Meghalaya,20.0
+2010-11,Mizoram,Small,0.1,gdp_share in percentage,,2010,Mizoram,Mizoram,10.0
+2010-11,Nagaland,Small,0.2,gdp_share in percentage,,2010,Nagaland,Nagaland,20.0
+2010-11,Puducherry,Small,0.2,gdp_share in percentage,,2010,Puducherry,Puducherry,20.0
+2010-11,Sikkim,Small,0.1,gdp_share in percentage,,2010,Sikkim,Sikkim,10.0
+2010-11,Tripura,Small,0.3,gdp_share in percentage,,2010,Tripura,Tripura,30.0
+2010-11,Andhra Pradesh,Large,4.6,gdp_share in percentage,,2010,Andhra Pradesh,Andhra Pradesh,459.99999999999994
+2010-11,Bihar,Large,2.9,gdp_share in percentage,,2010,Bihar,Bihar,290.0
+2010-11,Madhya Pradesh,Large,3.8,gdp_share in percentage,,2010,Madhya Pradesh,Madhya Pradesh,380.0
+2010-11,Uttar Pradesh,Large,8.7,gdp_share in percentage,,2010,Uttar Pradesh,Uttar Pradesh,869.9999999999999
+2000-01,Andhra Pradesh,Large,8.2,gdp_share in percentage,gdp_share: Data for Andhra Pradesh and Telangana Together,2000,Andhra Pradesh,AP-Telangana Combined,819.9999999999999
+2000-01,Assam,Large,1.9,gdp_share in percentage,,2000,Assam,Assam,190.0
+2000-01,Bihar,Large,4.4,gdp_share in percentage,gdp_share:Data for Bihar and Jharkhand Together,2000,Bihar,Bihar,440.00000000000006
+2000-01,Chhattisgarh,Large,1.5,gdp_share in percentage,,2000,Chhattisgarh,Chhattisgarh,150.0
+2000-01,Delhi,Large,3.7,gdp_share in percentage,,2000,Delhi,Delhi,370.0
+2000-01,Gujarat,Large,6.4,gdp_share in percentage,,2000,Gujarat,Gujarat,640.0
+2000-01,Haryana,Large,3.2,gdp_share in percentage,,2000,Haryana,Haryana,320.0
+2000-01,Jharkhand,Large,1.7,gdp_share in percentage,,2000,Jharkhand,Jharkhand,170.0
+2000-01,Karnataka,Large,6.2,gdp_share in percentage,,2000,Karnataka,Karnataka,620.0
+2000-01,Kerala,Large,4.1,gdp_share in percentage,,2000,Kerala,Kerala,409.99999999999994
+2000-01,Madhya Pradesh,Large,5.8,gdp_share in percentage,gdp_share:Data for Madhya Pradesh and Chhattisgarh Together,2000,Madhya Pradesh,Madhya Pradesh,580.0
+2000-01,Maharashtra,Large,14.0,gdp_share in percentage,,2000,Maharashtra,Maharashtra,1400.0
+2000-01,Odisha,Large,2.3,gdp_share in percentage,,2000,Odisha,Odisha,229.99999999999997
+2000-01,Punjab,Large,3.9,gdp_share in percentage,,2000,Punjab,Punjab,390.0
+2000-01,Rajasthan,Large,4.6,gdp_share in percentage,,2000,Rajasthan,Rajasthan,459.99999999999994
+2000-01,Tamil Nadu,Large,8.3,gdp_share in percentage,,2000,Tamil Nadu,Tamil Nadu,830.0000000000001
+2000-01,Uttar Pradesh,Large,10.9,gdp_share in percentage,gdp_share:Data for Uttar Pradesh and Uttarakhand Together,2000,Uttar Pradesh,Uttar Pradesh,1090.0
+2000-01,Uttarakhand,Large,0.7,gdp_share in percentage,,2000,Uttarakhand,Uttarakhand,70.0
+2000-01,West Bengal,Large,8.2,gdp_share in percentage,,2000,West Bengal,West Bengal,819.9999999999999
+2000-01,Andaman and Nicobar Islands,Small,0.06,gdp_share in percentage,,2000,Andaman and Nicobar Islands,Andaman and Nicobar Islands,6.0
+2000-01,Arunachal Pradesh,Small,0.1,gdp_share in percentage,,2000,Arunachal Pradesh,Arunachal Pradesh,10.0
+2000-01,Chandigarh,Small,0.2,gdp_share in percentage,,2000,Chandigarh,Chandigarh,20.0
+2000-01,Goa,Small,0.5,gdp_share in percentage,,2000,Goa,Goa,50.0
+2000-01,Himachal Pradesh,Small,0.8,gdp_share in percentage,,2000,Himachal Pradesh,Himachal Pradesh,80.0
+2000-01,Jammu and Kashmir,Small,0.9,gdp_share in percentage,,2000,Jammu and Kashmir,Jammu and Kashmir,90.0
+2000-01,Manipur,Small,0.2,gdp_share in percentage,,2000,Manipur,Manipur,20.0
+2000-01,Meghalaya,Small,0.2,gdp_share in percentage,,2000,Meghalaya,Meghalaya,20.0
+2000-01,Mizoram,Small,0.1,gdp_share in percentage,,2000,Mizoram,Mizoram,10.0
+2000-01,Nagaland,Small,0.2,gdp_share in percentage,,2000,Nagaland,Nagaland,20.0
+2000-01,Puducherry,Small,0.2,gdp_share in percentage,,2000,Puducherry,Puducherry,20.0
+2000-01,Sikkim,Small,0.1,gdp_share in percentage,,2000,Sikkim,Sikkim,10.0
+2000-01,Tripura,Small,0.3,gdp_share in percentage,,2000,Tripura,Tripura,30.0
+2000-01,Andhra Pradesh,Large,8.2,gdp_share in percentage,,2000,Andhra Pradesh,Andhra Pradesh,819.9999999999999
+2000-01,Bihar,Large,2.8,gdp_share in percentage,,2000,Bihar,Bihar,280.0
+2000-01,Madhya Pradesh,Large,4.3,gdp_share in percentage,,2000,Madhya Pradesh,Madhya Pradesh,430.0
+2000-01,Uttar Pradesh,Large,10.2,gdp_share in percentage,,2000,Uttar Pradesh,Uttar Pradesh,1019.9999999999999
+1990-91,Andhra Pradesh,Large,7.6,gdp_share in percentage,gdp_share: Data for Andhra Pradesh and Telangana Together,1990,Andhra Pradesh,AP-Telangana Combined,760.0
+1990-91,Assam,Large,2.4,gdp_share in percentage,,1990,Assam,Assam,240.0
+1990-91,Bihar,Large,6.0,gdp_share in percentage,gdp_share:Data for Bihar and Jharkhand Together,1990,Bihar,Bihar-Jharkhand Combined,600.0
+1990-91,Chhattisgarh,Large,,gdp_share in percentage,,1990,Chhattisgarh,Chhattisgarh,
+1990-91,Delhi,Large,2.6,gdp_share in percentage,,1990,Delhi,Delhi,260.0
+1990-91,Gujarat,Large,6.4,gdp_share in percentage,,1990,Gujarat,Gujarat,640.0
+1990-91,Haryana,Large,3.1,gdp_share in percentage,,1990,Haryana,Haryana,310.0
+1990-91,Jharkhand,Large,,gdp_share in percentage,,1990,Jharkhand,Jharkhand,
+1990-91,Karnataka,Large,5.3,gdp_share in percentage,,1990,Karnataka,Karnataka,530.0
+1990-91,Kerala,Large,3.2,gdp_share in percentage,,1990,Kerala,Kerala,320.0
+1990-91,Madhya Pradesh,Large,6.9,gdp_share in percentage,gdp_share:Data for Madhya Pradesh and Chhattisgarh Together,1990,Madhya Pradesh,MP-Chhattisgarh Combined,690.0
+1990-91,Maharashtra,Large,14.6,gdp_share in percentage,,1990,Maharashtra,Maharashtra,1460.0
+1990-91,Odisha,Large,2.5,gdp_share in percentage,,1990,Odisha,Odisha,250.0
+1990-91,Punjab,Large,4.3,gdp_share in percentage,,1990,Punjab,Punjab,430.0
+1990-91,Rajasthan,Large,4.7,gdp_share in percentage,,1990,Rajasthan,Rajasthan,470.0
+1990-91,Tamil Nadu,Large,7.1,gdp_share in percentage,,1990,Tamil Nadu,Tamil Nadu,710.0
+1990-91,Uttar Pradesh,Large,12.6,gdp_share in percentage,gdp_share:Data for Uttar Pradesh and Uttarakhand Together,1990,Uttar Pradesh,Uttar Pradesh,1260.0
+1990-91,Uttarakhand,Large,,gdp_share in percentage,,1990,Uttarakhand,Uttarakhand,
+1990-91,West Bengal,Large,7.9,gdp_share in percentage,,1990,West Bengal,West Bengal,790.0
+1990-91,Andaman and Nicobar Islands,Small,0.04,gdp_share in percentage,,1990,Andaman and Nicobar Islands,Andaman and Nicobar Islands,4.0
+1990-91,Arunachal Pradesh,Small,0.1,gdp_share in percentage,,1990,Arunachal Pradesh,Arunachal Pradesh,10.0
+1990-91,Chandigarh,Small,,gdp_share in percentage,,1990,Chandigarh,Chandigarh,
+1990-91,Goa,Small,0.3,gdp_share in percentage,,1990,Goa,Goa,30.0
+1990-91,Himachal Pradesh,Small,0.6,gdp_share in percentage,,1990,Himachal Pradesh,Himachal Pradesh,60.0
+1990-91,Jammu and Kashmir,Small,0.8,gdp_share in percentage,,1990,Jammu and Kashmir,Jammu and Kashmir,80.0
+1990-91,Manipur,Small,0.2,gdp_share in percentage,,1990,Manipur,Manipur,20.0
+1990-91,Meghalaya,Small,0.2,gdp_share in percentage,,1990,Meghalaya,Meghalaya,20.0
+1990-91,Mizoram,Small,0.1,gdp_share in percentage,,1990,Mizoram,Mizoram,10.0
+1990-91,Nagaland,Small,0.1,gdp_share in percentage,,1990,Nagaland,Nagaland,10.0
+1990-91,Puducherry,Small,0.1,gdp_share in percentage,,1990,Puducherry,Puducherry,10.0
+1990-91,Sikkim,Small,0.1,gdp_share in percentage,,1990,Sikkim,Sikkim,10.0
+1990-91,Tripura,Small,0.2,gdp_share in percentage,,1990,Tripura,Tripura,20.0
+1990-91,Andhra Pradesh,Large,7.6,gdp_share in percentage,,1990,Andhra Pradesh,Andhra Pradesh,760.0
+1990-91,Bihar,Large,6.0,gdp_share in percentage,,1990,Bihar,Bihar,600.0
+1990-91,Madhya Pradesh,Large,6.9,gdp_share in percentage,,1990,Madhya Pradesh,Madhya Pradesh,690.0
+1990-91,Uttar Pradesh,Large,12.6,gdp_share in percentage,,1990,Uttar Pradesh,Uttar Pradesh,1260.0
+1980-81,Andhra Pradesh,Large,7.0,gdp_share in percentage,gdp_share: Data for Andhra Pradesh and Telangana Together,1980,Andhra Pradesh,AP-Telangana Combined,700.0
+1980-81,Assam,Large,2.1,gdp_share in percentage,,1980,Assam,Assam,210.0
+1980-81,Bihar,Large,6.3,gdp_share in percentage,gdp_share:Data for Bihar and Jharkhand Together,1980,Bihar,Bihar-Jharkhand Combined,630.0
+1980-81,Chhattisgarh,Large,,gdp_share in percentage,,1980,Chhattisgarh,Chhattisgarh,
+1980-81,Delhi,Large,2.3,gdp_share in percentage,,1980,Delhi,Delhi,229.99999999999997
+1980-81,Gujarat,Large,6.3,gdp_share in percentage,,1980,Gujarat,Gujarat,630.0
+1980-81,Haryana,Large,2.9,gdp_share in percentage,,1980,Haryana,Haryana,290.0
+1980-81,Jharkhand,Large,,gdp_share in percentage,,1980,Jharkhand,Jharkhand,
+1980-81,Karnataka,Large,5.3,gdp_share in percentage,,1980,Karnataka,Karnataka,530.0
+1980-81,Kerala,Large,3.6,gdp_share in percentage,,1980,Kerala,Kerala,360.0
+1980-81,Madhya Pradesh,Large,6.6,gdp_share in percentage,gdp_share:Data for Madhya Pradesh and Chhattisgarh Together,1980,Madhya Pradesh,MP-Chhattisgarh Combined,660.0
+1980-81,Maharashtra,Large,14.2,gdp_share in percentage,,1980,Maharashtra,Maharashtra,1420.0
+1980-81,Odisha,Large,3.2,gdp_share in percentage,,1980,Odisha,Odisha,320.0
+1980-81,Punjab,Large,4.3,gdp_share in percentage,,1980,Punjab,Punjab,430.0
+1980-81,Rajasthan,Large,3.9,gdp_share in percentage,,1980,Rajasthan,Rajasthan,390.0
+1980-81,Tamil Nadu,Large,6.9,gdp_share in percentage,,1980,Tamil Nadu,Tamil Nadu,690.0
+1980-81,Uttar Pradesh,Large,13.2,gdp_share in percentage,gdp_share:Data for Uttar Pradesh and Uttarakhand Together,1980,Uttar Pradesh,Uttar Pradesh,1320.0
+1980-81,Uttarakhand,Large,,gdp_share in percentage,,1980,Uttarakhand,Uttarakhand,
+1980-81,West Bengal,Large,8.8,gdp_share in percentage,,1980,West Bengal,West Bengal,880.0000000000001
+1980-81,Andaman and Nicobar Islands,Small,0.05,gdp_share in percentage,,1980,Andaman and Nicobar Islands,Andaman and Nicobar Islands,5.0
+1980-81,Arunachal Pradesh,Small,0.1,gdp_share in percentage,,1980,Arunachal Pradesh,Arunachal Pradesh,10.0
+1980-81,Chandigarh,Small,,gdp_share in percentage,,1980,Chandigarh,Chandigarh,
+1980-81,Goa,Small,0.3,gdp_share in percentage,,1980,Goa,Goa,30.0
+1980-81,Himachal Pradesh,Small,0.7,gdp_share in percentage,,1980,Himachal Pradesh,Himachal Pradesh,70.0
+1980-81,Jammu and Kashmir,Small,1.0,gdp_share in percentage,,1980,Jammu and Kashmir,Jammu and Kashmir,100.0
+1980-81,Manipur,Small,0.2,gdp_share in percentage,,1980,Manipur,Manipur,20.0
+1980-81,Meghalaya,Small,0.2,gdp_share in percentage,,1980,Meghalaya,Meghalaya,20.0
+1980-81,Mizoram,Small,0.1,gdp_share in percentage,,1980,Mizoram,Mizoram,10.0
+1980-81,Nagaland,Small,0.1,gdp_share in percentage,,1980,Nagaland,Nagaland,10.0
+1980-81,Puducherry,Small,0.2,gdp_share in percentage,,1980,Puducherry,Puducherry,20.0
+1980-81,Sikkim,Small,0.0,gdp_share in percentage,,1980,Sikkim,Sikkim,0.0
+1980-81,Tripura,Small,0.2,gdp_share in percentage,,1980,Tripura,Tripura,20.0
+1980-81,Andhra Pradesh,Large,7.0,gdp_share in percentage,,1980,Andhra Pradesh,Andhra Pradesh,700.0
+1980-81,Bihar,Large,6.3,gdp_share in percentage,,1980,Bihar,Bihar,630.0
+1980-81,Madhya Pradesh,Large,6.6,gdp_share in percentage,,1980,Madhya Pradesh,Madhya Pradesh,660.0
+1980-81,Uttar Pradesh,Large,13.2,gdp_share in percentage,,1980,Uttar Pradesh,Uttar Pradesh,1320.0
+1970-71,Andhra Pradesh,Large,7.7,gdp_share in percentage,gdp_share: Data for Andhra Pradesh and Telangana Together,1970,Andhra Pradesh,AP-Telangana Combined,770.0
+1970-71,Assam,Large,2.4,gdp_share in percentage,,1970,Assam,Assam,240.0
+1970-71,Bihar,Large,6.9,gdp_share in percentage,gdp_share:Data for Bihar and Jharkhand Together,1970,Bihar,Bihar-Jharkhand Combined,690.0
+1970-71,Chhattisgarh,Large,,gdp_share in percentage,,1970,Chhattisgarh,Chhattisgarh,
+1970-71,Delhi,Large,1.5,gdp_share in percentage,,1970,Delhi,Delhi,150.0
+1970-71,Gujarat,Large,6.7,gdp_share in percentage,,1970,Gujarat,Gujarat,670.0
+1970-71,Haryana,Large,2.7,gdp_share in percentage,,1970,Haryana,Haryana,270.0
+1970-71,Jharkhand,Large,,gdp_share in percentage,,1970,Jharkhand,Jharkhand,
+1970-71,Karnataka,Large,5.7,gdp_share in percentage,,1970,Karnataka,Karnataka,570.0
+1970-71,Kerala,Large,3.8,gdp_share in percentage,,1970,Kerala,Kerala,380.0
+1970-71,Madhya Pradesh,Large,6.1,gdp_share in percentage,gdp_share:Data for Madhya Pradesh and Chhattisgarh Together,1970,Madhya Pradesh,MP-Chhattisgarh Combined,610.0
+1970-71,Maharashtra,Large,11.9,gdp_share in percentage,,1970,Maharashtra,Maharashtra,1190.0
+1970-71,Odisha,Large,3.2,gdp_share in percentage,,1970,Odisha,Odisha,320.0
+1970-71,Punjab,Large,4.4,gdp_share in percentage,,1970,Punjab,Punjab,440.00000000000006
+1970-71,Rajasthan,Large,5.1,gdp_share in percentage,,1970,Rajasthan,Rajasthan,509.99999999999994
+1970-71,Tamil Nadu,Large,7.3,gdp_share in percentage,,1970,Tamil Nadu,Tamil Nadu,730.0
+1970-71,Uttar Pradesh,Large,13.0,gdp_share in percentage,gdp_share:Data for Uttar Pradesh and Uttarakhand Together,1970,Uttar Pradesh,Uttar Pradesh,1300.0
+1970-71,Uttarakhand,Large,,gdp_share in percentage,,1970,Uttarakhand,Uttarakhand,
+1970-71,West Bengal,Large,9.7,gdp_share in percentage,,1970,West Bengal,West Bengal,969.9999999999999
+1970-71,Andaman and Nicobar Islands,Small,,gdp_share in percentage,,1970,Andaman and Nicobar Islands,Andaman and Nicobar Islands,
+1970-71,Arunachal Pradesh,Small,0.1,gdp_share in percentage,,1970,Arunachal Pradesh,Arunachal Pradesh,10.0
+1970-71,Chandigarh,Small,,gdp_share in percentage,,1970,Chandigarh,Chandigarh,
+1970-71,Goa,Small,,gdp_share in percentage,,1970,Goa,Goa,
+1970-71,Himachal Pradesh,Small,0.7,gdp_share in percentage,,1970,Himachal Pradesh,Himachal Pradesh,70.0
+1970-71,Jammu and Kashmir,Small,0.8,gdp_share in percentage,,1970,Jammu and Kashmir,Jammu and Kashmir,80.0
+1970-71,Manipur,Small,0.1,gdp_share in percentage,,1970,Manipur,Manipur,10.0
+1970-71,Meghalaya,Small,,gdp_share in percentage,,1970,Meghalaya,Meghalaya,
+1970-71,Mizoram,Small,,gdp_share in percentage,,1970,Mizoram,Mizoram,
+1970-71,Nagaland,Small,0.1,gdp_share in percentage,,1970,Nagaland,Nagaland,10.0
+1970-71,Puducherry,Small,0.1,gdp_share in percentage,,1970,Puducherry,Puducherry,10.0
+1970-71,Sikkim,Small,,gdp_share in percentage,,1970,Sikkim,Sikkim,
+1970-71,Tripura,Small,0.2,gdp_share in percentage,,1970,Tripura,Tripura,20.0
+1970-71,Andhra Pradesh,Large,7.7,gdp_share in percentage,,1970,Andhra Pradesh,Andhra Pradesh,770.0
+1970-71,Bihar,Large,6.9,gdp_share in percentage,,1970,Bihar,Bihar,690.0
+1970-71,Madhya Pradesh,Large,6.1,gdp_share in percentage,,1970,Madhya Pradesh,Madhya Pradesh,610.0
+1970-71,Uttar Pradesh,Large,13.0,gdp_share in percentage,,1970,Uttar Pradesh,Uttar Pradesh,1300.0
+1960-61,Andhra Pradesh,Large,7.7,gdp_share in percentage,gdp_share: Data for Andhra Pradesh and Telangana Together,1960,Andhra Pradesh,AP-Telangana Combined,770.0
+1960-61,Assam,Large,2.6,gdp_share in percentage,,1960,Assam,Assam,260.0
+1960-61,Bihar,Large,7.8,gdp_share in percentage,gdp_share:Data for Bihar and Jharkhand Together,1960,Bihar,Bihar-Jharkhand Combined,780.0
+1960-61,Chhattisgarh,Large,,gdp_share in percentage,,1960,Chhattisgarh,Chhattisgarh,
+1960-61,Delhi,Large,1.4,gdp_share in percentage,,1960,Delhi,Delhi,140.0
+1960-61,Gujarat,Large,5.8,gdp_share in percentage,,1960,Gujarat,Gujarat,580.0
+1960-61,Haryana,Large,1.9,gdp_share in percentage,,1960,Haryana,Haryana,190.0
+1960-61,Jharkhand,Large,,gdp_share in percentage,,1960,Jharkhand,Jharkhand,
+1960-61,Karnataka,Large,5.4,gdp_share in percentage,,1960,Karnataka,Karnataka,540.0
+1960-61,Kerala,Large,3.4,gdp_share in percentage,,1960,Kerala,Kerala,340.0
+1960-61,Madhya Pradesh,Large,6.3,gdp_share in percentage,gdp_share:Data for Madhya Pradesh and Chhattisgarh Together,1960,Madhya Pradesh,MP-Chhattisgarh Combined,630.0
+1960-61,Maharashtra,Large,12.5,gdp_share in percentage,,1960,Maharashtra,Maharashtra,1250.0
+1960-61,Odisha,Large,2.9,gdp_share in percentage,,1960,Odisha,Odisha,290.0
+1960-61,Punjab,Large,3.2,gdp_share in percentage,,1960,Punjab,Punjab,320.0
+1960-61,Rajasthan,Large,4.4,gdp_share in percentage,,1960,Rajasthan,Rajasthan,440.00000000000006
+1960-61,Tamil Nadu,Large,8.7,gdp_share in percentage,,1960,Tamil Nadu,Tamil Nadu,869.9999999999999
+1960-61,Uttar Pradesh,Large,14.4,gdp_share in percentage,gdp_share:Data for Uttar Pradesh and Uttarakhand Together,1960,Uttar Pradesh,Uttar Pradesh,1440.0
+1960-61,Uttarakhand,Large,,gdp_share in percentage,,1960,Uttarakhand,Uttarakhand,
+1960-61,West Bengal,Large,10.5,gdp_share in percentage,,1960,West Bengal,West Bengal,1050.0
+1960-61,Andaman and Nicobar Islands,Small,,gdp_share in percentage,,1960,Andaman and Nicobar Islands,Andaman and Nicobar Islands,
+1960-61,Arunachal Pradesh,Small,,gdp_share in percentage,,1960,Arunachal Pradesh,Arunachal Pradesh,
+1960-61,Chandigarh,Small,,gdp_share in percentage,,1960,Chandigarh,Chandigarh,
+1960-61,Goa,Small,,gdp_share in percentage,,1960,Goa,Goa,
+1960-61,Himachal Pradesh,Small,,gdp_share in percentage,,1960,Himachal Pradesh,Himachal Pradesh,
+1960-61,Jammu and Kashmir,Small,0.7,gdp_share in percentage,,1960,Jammu and Kashmir,Jammu and Kashmir,70.0
+1960-61,Manipur,Small,0.1,gdp_share in percentage,,1960,Manipur,Manipur,10.0
+1960-61,Meghalaya,Small,,gdp_share in percentage,,1960,Meghalaya,Meghalaya,
+1960-61,Mizoram,Small,,gdp_share in percentage,,1960,Mizoram,Mizoram,
+1960-61,Nagaland,Small,,gdp_share in percentage,,1960,Nagaland,Nagaland,
+1960-61,Puducherry,Small,,gdp_share in percentage,,1960,Puducherry,Puducherry,
+1960-61,Sikkim,Small,,gdp_share in percentage,,1960,Sikkim,Sikkim,
+1960-61,Tripura,Small,0.2,gdp_share in percentage,,1960,Tripura,Tripura,20.0
+1960-61,Andhra Pradesh,Large,7.7,gdp_share in percentage,,1960,Andhra Pradesh,Andhra Pradesh,770.0
+1960-61,Bihar,Large,7.8,gdp_share in percentage,,1960,Bihar,Bihar,780.0
+1960-61,Madhya Pradesh,Large,6.3,gdp_share in percentage,,1960,Madhya Pradesh,Madhya Pradesh,630.0
+1960-61,Uttar Pradesh,Large,14.4,gdp_share in percentage,,1960,Uttar Pradesh,Uttar Pradesh,1440.0

@@ -1,0 +1,43 @@
+state_code,canonical_name,valid_from,valid_to,predecessor,successor,change_type,notes
+JK,Jammu and Kashmir,1951,2019,,"JK_UT,LA",downgrade+split,Art.370 revoked 2019; bifurcated into J&K UT and Ladakh UT
+JK_UT,Jammu and Kashmir (UT),2020,2025,JK,,reorganization,Post-2019 UT status
+LA,Ladakh,2020,2025,JK,,new_ut,Carved from J&K in 2019
+UP,Uttar Pradesh,1951,2025,United Provinces,UK,parent+rename,Uttarakhand split in 2000; renamed from United Provinces 1950
+UK,Uttarakhand,2000,2025,UP,,bifurcation,Carved from Uttar Pradesh 9 Nov 2000; capital Dehradun
+BR,Bihar,1951,2025,,JH,parent,Jharkhand split in 2000
+JH,Jharkhand,2000,2025,BR,,bifurcation,Carved from Bihar 15 Nov 2000
+MP,Madhya Pradesh,1951,2025,Madhya Bharat,CG,parent+rename,Chhattisgarh split in 2000; Madhya Bharat merged 1956
+CG,Chhattisgarh,2000,2025,MP,,bifurcation,Carved from Madhya Pradesh 1 Nov 2000
+AP,Andhra Pradesh,1953,2025,Madras,TS,parent+new,Telangana split in 2014; formed from Madras State 1953
+TS,Telangana,2014,2025,AP,,bifurcation,Carved from Andhra Pradesh 2 Jun 2014
+MH,Maharashtra,1960,2025,Bombay,,rename+split,Bombay State split 1960 into Maharashtra and Gujarat
+GJ,Gujarat,1960,2025,Bombay,,bifurcation,Carved from Bombay State 1 May 1960
+BO,Bombay,1951,1960,,"MH,GJ",dissolved,Split into Maharashtra and Gujarat in 1960
+KL,Kerala,1956,2025,Travancore-Cochin,,rename,Formed from Travancore-Cochin + Malabar 1956
+TC,Travancore-Cochin,1951,1956,,KL,dissolved,Reorganized into Kerala 1956
+KA,Karnataka,1973,2025,Mysore,,rename,Mysore renamed Karnataka 1 Nov 1973
+MY,Mysore,1951,1973,,KA,renamed,Became Karnataka in 1973
+TN,Tamil Nadu,1969,2025,Madras,,rename,Madras State renamed Tamil Nadu 14 Jan 1969
+MD,Madras,1951,1969,,"TN,AP",renamed+split,Became Tamil Nadu; parts to Andhra Pradesh 1953
+OR,Odisha,2011,2025,Orissa,,rename,Orissa officially renamed Odisha 4 Nov 2011
+OR_OLD,Orissa,1951,2011,,OR,renamed,Renamed to Odisha in 2011
+PB,Punjab,1956,2025,PEPSU,HR,absorb+split,PEPSU merged 1956; Haryana split 1966
+PEPSU,PEPSU,1951,1956,,PB,dissolved,Patiala and East Punjab States Union; merged into Punjab 1956
+HR,Haryana,1966,2025,PB,,bifurcation,Carved from Punjab 1 Nov 1966
+HP,Himachal Pradesh,1971,2025,,,statehood,Full statehood 25 Jan 1971; earlier union territory
+MN,Manipur,1972,2025,,,statehood,Statehood 21 Jan 1972
+MG,Meghalaya,1972,2025,Assam,,bifurcation,Carved from Assam 21 Jan 1972
+TR,Tripura,1972,2025,,,statehood,Statehood 21 Jan 1972
+SK,Sikkim,1975,2025,,,accession,22nd state; acceded to India 16 May 1975
+MZ,Mizoram,1987,2025,,,statehood,Statehood 20 Feb 1987
+AR,Arunachal Pradesh,1987,2025,,,statehood,Statehood 20 Feb 1987
+GA,Goa,1987,2025,,,statehood,Statehood 30 May 1987; liberated 1961
+NL,Nagaland,1963,2025,,,statehood,16th state 1 Dec 1963
+HY,Hyderabad,1951,1956,,"AP,KA,MH",dissolved,"Dissolved in States Reorganisation 1956; split among AP, KA, MH"
+VP,Vindhya Pradesh,1951,1956,,MP,dissolved,Merged into Madhya Pradesh 1956
+MB,Madhya Bharat,1951,1956,,MP,dissolved,Merged into Madhya Pradesh 1956
+UP2,United Provinces,1947,1950,,UP,renamed,Renamed to Uttar Pradesh 1950
+AS,Assam,1951,2025,,"MG,MZ,NL,AR",parent,Lost several northeastern states carved out
+WB,West Bengal,1951,2025,,,stable,No major reorganization
+RJ,Rajasthan,1951,2025,,,stable,Rajputana states merged 1949
+DL,Delhi,1951,2025,,,ut_nct,National Capital Territory; not a full state

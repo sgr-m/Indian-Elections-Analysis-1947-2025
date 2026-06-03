@@ -1,0 +1,16 @@
+Electoral Democracy in India — Data Collection Log
+Run date : 2026-06-03 21:00:40
+Database : c:\Users\sagar\OneDrive\Documents\GitHub\Indian-Elections-Analysis-1947-2025\electoral_india.db
+
+                   dataset  rows  cols  missing_cols  total_missing
+election_results_1951_2019 89840    15             7         120911
+        loksabha_1962_2019  8047    12             4             62
+     election_results_2024  8902    11             0              0
+          ref_party_master 10153    21             8           3253
+      constituency_summary 21680     8             4          52032
+        literacy_1951_2011     7     4             0              0
+      parliament_1951_2014 74930    11             4         131753
+       state_sdp_2011_2023    34    15             2             19
+ state_gdp_share_1960_2023   291     6             2            281
+
+Files loaded: ['election_results_1951_2019', 'loksabha_1962_2019', 'election_results_2024', 'ref_party_master', 'constituency_summary', 'literacy_1951_2011', 'parliament_1951_2014', 'state_sdp_2011_2023', 'state_gdp_share_1960_2023']

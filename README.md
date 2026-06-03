@@ -1,8 +1,5 @@
 # Electoral Democracy in India (1947–2025): A Data-Driven Analysis of Fragmentation, Volatility, and Coalition Networks
 
-**Author:** Sagar Maindola[cite: 2]  
-**Institution:** Department of Computer Science, Graphic Era Deemed to be University, Dehradun[cite: 2]  
-
 *(Paper under review at SSRN - Link coming soon)*
 
 ---
@@ -13,13 +10,13 @@ This repository contains the complete Python codebase, feature engineering pipel
 ## Project Structure
 The repository is organized chronologically to ensure full reproducibility of the data pipeline and statistical models:
 
-*   **`RawData/`**: Place downloaded CSVs here[cite: 2].
+*   **`RawData/`**: Place downloaded CSVs here.
 *   **`FilteredData/`**: Intermediate datasets following initial boundary and missing-value audits.
-*   **`ProcessedData/`**: Cleaned outputs and finalized analytical feature arrays[cite: 2].
-*   **`ReferenceData/`**: Crosswalk tables and historical party metadata[cite: 2].
+*   **`ProcessedData/`**: Cleaned outputs and finalized analytical feature arrays.
+*   **`ReferenceData/`**: Crosswalk tables and historical party metadata.
 *   **`Sub Datasets/`**: Segmented data blocks categorized by political epoch.
-*   **`electoral_india.db`**: The normalized SQLite database acting as the core data engine[cite: 2].
-*   **`state_normalization.py`**: Reusable state name normalization module resolving spelling variants[cite: 2].
+*   **`electoral_india.db`**: The normalized SQLite database acting as the core data engine.
+*   **`state_normalization.py`**: Reusable state name normalization module resolving spelling variants.
 *   **`queries.sql`**: Optimized extraction queries for downstream Pandas integration.
 *   **`requirements.txt`**: Complete list of Python dependencies for local replication.
 
@@ -40,15 +37,15 @@ To replicate this study, download the following datasets and place them in the `
 
 | Filename | Source |
 |---|---|
-| `election_results_1951_2019.csv` | Kaggle (ramaasivashankar)[cite: 2] |
-| `loksabha_1962_2019.csv` | Kaggle (prabinraj)[cite: 2] |
-| `election_results_2024.csv` | OpenCity.in[cite: 2] |
-| `ref_party_master_1962_2021.csv` | Kaggle (jehanbhathena)[cite: 2] |
-| `election_constituency_summary.csv` | dataful.in/datasets/19985[cite: 2] |
-| `literacy_1951_2011.csv` | data.gov.in[cite: 2] |
-| `parliament_1951_2014.csv` | github.com/datameet[cite: 2] |
-| `state_sdp_2011_2023.csv` | mospi.gov.in[cite: 2] |
-| `state_gdp_share_1960_2023.csv` | dataful.in/datasets/20245[cite: 2] |
+| `election_results_1951_2019.csv` | Kaggle (ramaasivashankar) |
+| `loksabha_1962_2019.csv` | Kaggle (prabinraj) |
+| `election_results_2024.csv` | OpenCity.in|
+| `ref_party_master_1962_2021.csv` | Kaggle (jehanbhathena)|
+| `election_constituency_summary.csv` | dataful.in/datasets/19985 |
+| `literacy_1951_2011.csv` | data.gov.in |
+| `parliament_1951_2014.csv` | github.com/datameet |
+| `state_sdp_2011_2023.csv` | mospi.gov.in |
+| `state_gdp_share_1960_2023.csv` | dataful.in/datasets/2024 |
 
 ---
 ## Project Methodology
@@ -61,24 +58,24 @@ Below is the structural flow of the data engineering and machine learning pipeli
 ## Key Design Decisions
 
 ### State Name Standardization & Bifurcation Logic
-All raw state name variants are mapped through a robust tracking dictionary. Historical state names (Bombay, Madras, PEPSU, etc.) are mapped to their canonical successors[cite: 2]. The pipeline utilizes bifurcation-aware logic to handle year-dependent spatial reassignments, ensuring longitudinal consistency across the following major events[cite: 2]:
+All raw state name variants are mapped through a robust tracking dictionary. Historical state names (Bombay, Madras, PEPSU, etc.) are mapped to their canonical successors. The pipeline utilizes bifurcation-aware logic to handle year-dependent spatial reassignments, ensuring longitudinal consistency across the following major events:
 
 | Year | Event |
 |---|---|
-| 1947–1956 | Multiple states (PEPSU, Hyderabad, Madhya Bharat, Vindhya Pradesh, Travancore-Cochin) merged/reorganized[cite: 2] |
-| 1960 | Bombay → Maharashtra + Gujarat[cite: 2] |
-| 1963 | Nagaland statehood[cite: 2] |
-| 1966 | Punjab → Punjab + Haryana[cite: 2] |
-| 1969 | Madras → Tamil Nadu (rename)[cite: 2] |
-| 1971 | Himachal Pradesh statehood[cite: 2] |
-| 1972 | Manipur, Meghalaya, Tripura statehood[cite: 2] |
-| 1973 | Mysore → Karnataka (rename)[cite: 2] |
-| 1975 | Sikkim accession[cite: 2] |
-| 1987 | Goa, Mizoram, Arunachal Pradesh statehood[cite: 2] |
-| 2000 | UP → Uttarakhand; Bihar → Jharkhand; MP → Chhattisgarh[cite: 2] |
-| 2011 | Orissa → Odisha (rename)[cite: 2] |
-| 2014 | Andhra Pradesh → Andhra Pradesh + Telangana[cite: 2] |
-| 2019 | J&K → J&K UT + Ladakh UT[cite: 2] |
+| 1947–1956 | Multiple states (PEPSU, Hyderabad, Madhya Bharat, Vindhya Pradesh, Travancore-Cochin) merged/reorganized |
+| 1960 | Bombay → Maharashtra + Gujarat |
+| 1963 | Nagaland statehood |
+| 1966 | Punjab → Punjab + Haryana |
+| 1969 | Madras → Tamil Nadu (rename) |
+| 1971 | Himachal Pradesh statehood |
+| 1972 | Manipur, Meghalaya, Tripura statehood |
+| 1973 | Mysore → Karnataka (rename)  |
+| 1975 | Sikkim accession  |
+| 1987 | Goa, Mizoram, Arunachal Pradesh statehood  |
+| 2000 | UP → Uttarakhand; Bihar → Jharkhand; MP → Chhattisgarh  |
+| 2011 | Orissa → Odisha (rename)  |
+| 2014 | Andhra Pradesh → Andhra Pradesh + Telangana  |
+| 2019 | J&K → J&K UT + Ladakh UT  |
 
 ---
 
@@ -91,8 +88,12 @@ All raw state name variants are mapped through a robust tracking dictionary. His
 ## How to Run
 1. Clone this repository to your local machine.
 2. Install the required dependencies by running `pip install -r requirements.txt`.
-3. Download the necessary raw data files listed above and place them in the `RawData/` directory[cite: 2].
+3. Download the necessary raw data files listed above and place them in the `RawData/` directory .
 4. Execute the Jupyter Notebooks sequentially from `01` to `08`.
 
 ---
 *Last updated: June 2026*
+**Author 1:** Sagar Maindola  
+**Institution:** Department of Computer Science, Graphic Era Deemed to be University, Dehradun
+**Author 2:** Prerna Doodraj
+**Institution:** Department of Social Sciences, Seven Oaks School, Dehradun

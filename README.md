@@ -93,7 +93,15 @@ All raw state name variants are mapped through a robust tracking dictionary. His
 
 ---
 *Last updated: June 2026*
-**Author 1:** Sagar Maindola  
-**Institution:** Department of Computer Science, Graphic Era Deemed to be University, Dehradun
-**Author 2:** Prerna Doodraj
-**Institution:** Department of Social Sciences, Seven Oaks School, Dehradun
+
+## Authors
+
+**Sagar Maindola**  
+Independent Researcher  
+Department of Computer Science,  
+Graphic Era University, Dehradun
+
+**Prerna Doodraj**  
+PGT Political Science  
+Researcher – Political Science & Institutional Analysis
+

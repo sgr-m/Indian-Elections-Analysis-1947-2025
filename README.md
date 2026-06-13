@@ -1,6 +1,8 @@
 # Electoral Democracy in India (1947–2025): A Data-Driven Analysis of Fragmentation, Volatility, and Coalition Networks
 
-*(Paper under review at SSRN - Link coming soon)*
+[![DOI](https://img.shields.io/badge/DOI-10.2139%2Fssrn.6873638-blue)](https://doi.org/10.2139/ssrn.6873638)  
+The working paper draft associated with this codebase is indexed via Crossref and hosted on the SSRN Electronic Journal:  
+🔗 **Read the Paper:** [https://doi.org/10.2139/ssrn.6873638](https://doi.org/10.2139/ssrn.6873638)
 
 ---
 

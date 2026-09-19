@@ -14,7 +14,7 @@ function OverviewPage() {
   const [summary2, setSummary2] = useState("");
 
   useEffect(() => {
-    axios.get(`/data/kpis.json`).then(res => {
+    axios.get(`${import.meta.env.BASE_URL}data/kpis.json`).then(res => {
       if (typeof res.data === 'object' && res.data !== null && res.data.metrics) {
         setData(res.data);
       } else {
@@ -130,7 +130,7 @@ function StateAnalysisPage() {
   const [summary, setSummary] = useState("");
 
   useEffect(() => {
-    axios.get(`/data/states_list.json`).then(res => {
+    axios.get(`${import.meta.env.BASE_URL}data/states_list.json`).then(res => {
       if (Array.isArray(res.data)) {
         setStatesList(res.data);
         if (res.data.length > 0) setSelectedState(res.data[0]);
@@ -139,7 +139,7 @@ function StateAnalysisPage() {
       }
     }).catch(console.error);
     
-    axios.get(`/data/state_details.json`).then(res => {
+    axios.get(`${import.meta.env.BASE_URL}data/state_details.json`).then(res => {
       if (typeof res.data === 'object' && res.data !== null) {
         setStateDetails(res.data);
       }
@@ -225,7 +225,7 @@ function PartyPerformancePage() {
   const [summary, setSummary] = useState("");
 
   useEffect(() => {
-    axios.get(`/data/parties_list.json`).then(res => {
+    axios.get(`${import.meta.env.BASE_URL}data/parties_list.json`).then(res => {
       if (Array.isArray(res.data)) {
         setPartiesMeta(res.data);
         const def = res.data.find(p => p.party_abbr_clean === 'INC') ? 'INC' : res.data[0]?.party_abbr_clean;
@@ -235,7 +235,7 @@ function PartyPerformancePage() {
       }
     }).catch(console.error);
     
-    axios.get(`/data/party_details.json`).then(res => {
+    axios.get(`${import.meta.env.BASE_URL}data/party_details.json`).then(res => {
       if (typeof res.data === 'object' && res.data !== null) {
         setAllPartyDetails(res.data);
       }
@@ -347,7 +347,7 @@ function CoalitionInsightsPage() {
   const [summary, setSummary] = useState("");
 
   useEffect(() => {
-    axios.get(`/data/coalitions.json`).then(res => {
+    axios.get(`${import.meta.env.BASE_URL}data/coalitions.json`).then(res => {
       if (typeof res.data === 'object' && res.data !== null && res.data.alliances) {
         setData(res.data);
       } else {

@@ -4,7 +4,6 @@ mysql-connector-python
 matplotlib
 seaborn
 statsmodels
-ruptures
 scikit-learn
 scipy
 shap

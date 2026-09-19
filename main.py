@@ -58,6 +58,22 @@ def main():
     print("-" * 50)
     print("Pipeline Execution Complete!")
     print("All charts have been exported to reports/charts/ and outputs saved in notebooks.")
+    
+    print("-" * 50)
+    print("Building Static JSON files for React Dashboard...")
+    try:
+        subprocess.run(
+            ["uv", "run", "--with", "pandas", "--with", "numpy", os.path.join(root_dir, "src", "data", "build_json.py")],
+            cwd=root_dir,
+            check=True
+        )
+        print("Static JSON files built successfully in dashboard/client/public/data!")
+    except subprocess.CalledProcessError:
+        print("Error building JSON files.")
+        sys.exit(1)
+    except FileNotFoundError:
+        print("Error: 'uv' is not installed or not in PATH. Please install uv or run build_json.py manually.")
+        sys.exit(1)
 
 if __name__ == "__main__":
     main()
